@@ -1,0 +1,200 @@
+Боевик / Action
+Приключения / Adventure
+Комедия / Comedy
+Драма / Drama
+Фэнтези / Fantasy
+Ужасы / Horror
+Детектив / Mystery
+Романтика / Romance
+Научная фантастика / Sci-Fi
+Триллер / Thriller
+Вестерн / Western
+Криминал / Crime
+Военный фильм / War
+Мюзикл / Musical
+Биографический / Biography
+Исторический / Historical
+Документальный / Documentary
+Анимация / Animation
+Семейный / Family
+Спортивный / Sport
+Нуар / Noir
+Неонуар / Neo-noir
+Романтическая комедия / Romantic comedy
+Чёрная комедия / Black comedy
+Слэпстик / Slapstick
+Сатира / Satire
+Пародия / Parody
+Мокьюментари / Mockumentary
+Эксцентрическая комедия / Screwball comedy
+Бадди-комедия / Buddy comedy
+Подростковая комедия / Teen comedy
+Фильм взросления / Coming-of-age
+Роуд-муви / Road movie
+Мелодрама / Melodrama
+Судебная драма / Courtroom drama
+Юридический триллер / Legal thriller
+Политический триллер / Political thriller
+Психологический триллер / Psychological thriller
+Техно-триллер / Techno-thriller
+Шпионский фильм / Spy
+Ограбление / Heist
+Гангстерский фильм / Gangster
+Полицейская драма / Police procedural
+Классический детектив / Whodunit
+Джалло / Giallo
+Слэшер / Slasher
+Сплаттер / Splatter
+Гор / Gore
+Боди-хоррор / Body horror
+Фольк-хоррор / Folk horror
+Готический хоррор / Gothic horror
+Мистический хоррор / Supernatural horror
+Найденная плёнка / Found footage
+Зомби-фильм / Zombie
+Вампирское кино / Vampire
+Фильм об оборотнях / Werewolf
+Дом с привидениями / Haunted house
+Психологический хоррор / Psychological horror
+Фильм о чудовищах / Creature feature
+Кайдзю / Kaiju
+Фильм-катастрофа / Disaster
+Выживание / Survival
+Постапокалипсис / Post-apocalyptic
+Антиутопия / Dystopian
+Киберпанк / Cyberpunk
+Стимпанк / Steampunk
+Космоопера / Space opera
+Путешествия во времени / Time travel
+Вторжение пришельцев / Alien invasion
+Твёрдая научная фантастика / Hard sci-fi
+Супергероика / Superhero
+Меч и магия / Sword and sorcery
+Высокое фэнтези / High fantasy
+Тёмное фэнтези / Dark fantasy
+Городское фэнтези / Urban fantasy
+Сказка / Fairy tale
+Магический реализм / Magical realism
+Уся / Wuxia
+Боевые искусства / Martial arts
+Кунг-фу / Kung fu
+Самурайское кино / Samurai
+Спагетти-вестерн / Spaghetti western
+Ревизионистский вестерн / Revisionist western
+Космический вестерн / Space western
+Неовестерн / Neo-western
+Эпик / Epic
+Плащ и шпага / Swashbuckler
+Пеплум / Sword-and-sandal
+Костюмная драма / Costume drama
+Военная драма / War drama
+Антивоенное кино / Anti-war
+Байопик / Biopic
+Докудрама / Docudrama
+Концертный фильм / Concert film
+Музыкальный документальный / Music documentary
+Документальный о природе / Nature documentary
+Тру-крайм / True crime
+Пропагандистский фильм / Propaganda film
+Образовательный / Educational
+Фильм-эссе / Essay film
+Экспериментальное кино / Experimental
+Авангард / Avant-garde
+Сюрреалистическое кино / Surrealist
+Арт-хаус / Art house
+Немое кино / Silent film
+Синема-верите / Cinéma vérité
+Новая волна / New Wave
+Догма 95 / Dogme 95
+Мамблкор / Mumblecore
+Медленное кино / Slow cinema
+Минималистское кино / Minimalist
+Инди / Indie
+Б-муви / B-movie
+Грайндхаус / Grindhouse
+Эксплуатационное кино / Exploitation
+Блэксплуатейшн / Blaxploitation
+Кэмп / Camp
+Культовое кино / Cult
+Трэш / Trash
+Палп / Pulp
+Музыкальная комедия / Musical comedy
+Рок-опера / Rock opera
+Танцевальный фильм / Dance film
+Болливуд / Bollywood
+Масала / Masala
+Аниме-фильм / Anime film
+Покадровая анимация / Stop-motion
+Пластилиновая анимация / Claymation
+Компьютерная анимация / CGI animation
+Рисованная анимация / Hand-drawn animation
+Взрослая анимация / Adult animation
+Детский / Children's
+Подростковая драма / Teen drama
+Школьный фильм / High school
+Спортивная драма / Sports drama
+Гоночный фильм / Racing
+Боксёрский фильм / Boxing
+Горный фильм / Mountaineering
+Морское приключение / Sea adventure
+Пиратский фильм / Pirate
+Приключения в джунглях / Jungle adventure
+Поиск сокровищ / Treasure hunt
+Затерянный мир / Lost world
+Тюремный фильм / Prison
+Медицинская драма / Medical drama
+Офисная комедия / Workplace comedy
+Семейная драма / Family drama
+Социальный реализм / Social realism
+Бытовая драма / Kitchen sink
+Романтическая драма / Romantic drama
+Трагедия / Tragedy
+Трагикомедия / Tragicomedy
+Драмеди / Dramedy
+Фарс / Farce
+Абсурдистское кино / Absurdist
+Экзистенциальная драма / Existential
+Философское кино / Philosophical
+Психологическая драма / Psychological drama
+Портрет героя / Character study
+Ансамблевое кино / Ensemble
+Киноальманах / Anthology
+Гиперссылочное кино / Hyperlink cinema
+Сюжет-головоломка / Mind-bender
+Фильм с неожиданной развязкой / Twist film
+Техно-нуар / Tech-noir
+Конспирологический триллер / Conspiracy thriller
+Вторжение в дом / Home invasion
+Фильм о мести / Revenge
+Самосуд / Vigilante
+Автопогоня / Car chase
+Бадди-коп / Buddy cop
+Полицейский боевик / Cop action
+Военный боевик / Military action
+Политическая драма / Political drama
+Религиозный фильм / Religious
+Мифологическое кино / Mythological
+Библейский эпик / Biblical epic
+Исторический эпик / Historical epic
+Средневековое кино / Medieval
+Фильм о викингах / Viking
+Фильм о холодной войне / Cold War
+Космическая экспедиция / Space exploration
+Космический хоррор / Cosmic horror
+Оккультное кино / Occult
+Экзорцизм / Exorcism
+История с привидением / Ghost story
+Эко-хоррор / Eco-horror
+Техно-хоррор / Techno-horror
+Фантастический хоррор / Sci-fi horror
+Зомби-комедия / Zombie comedy
+Хоррор-комедия / Horror comedy
+Фэнтези-комедия / Fantasy comedy
+Фантастическая комедия / Sci-fi comedy
+Комедийный боевик / Action comedy
+Романтическое фэнтези / Romantic fantasy
+Фэнтези-приключение / Fantasy adventure
+Фантастическое приключение / Sci-fi adventure
+Детективный триллер / Mystery thriller
+Криминальная драма / Crime drama
+Криминальная комедия / Crime comedy

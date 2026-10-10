@@ -1,0 +1,200 @@
+Экшен / Action
+Приключение / Adventure
+Ролевая игра / RPG
+Стратегия / Strategy
+Симулятор / Simulation
+Спортивная игра / Sports
+Гонки / Racing
+Головоломка / Puzzle
+Шутер / Shooter
+Платформер / Platformer
+Файтинг / Fighting
+Beat 'em up / Beat 'em up
+Hack and slash / Hack and slash
+Roguelike / Roguelike
+Roguelite / Roguelite
+Метроидвания / Metroidvania
+Soulslike / Soulslike
+Выживание / Survival
+Survival horror / Survival horror
+Хоррор / Horror
+Стелс / Stealth
+Открытый мир / Open world
+Песочница / Sandbox
+MMORPG / MMORPG
+MOBA / MOBA
+Королевская битва / Battle royale
+Шутер от первого лица / First-person shooter
+Шутер от третьего лица / Third-person shooter
+Тактический шутер / Tactical shooter
+Геройский шутер / Hero shooter
+Арена-шутер / Arena shooter
+Bullet hell / Bullet hell
+Shoot 'em up / Shoot 'em up
+Run and gun / Run and gun
+Лайтган / Light gun
+Рельсовый шутер / Rail shooter
+Лутер-шутер / Looter shooter
+Экстракшен-шутер / Extraction shooter
+Стратегия в реальном времени / Real-time strategy
+Пошаговая стратегия / Turn-based strategy
+4X / 4X
+Глобальная стратегия / Grand strategy
+Tower defense / Tower defense
+Автобаттлер / Auto battler
+Тактическая RPG / Tactical RPG
+Action RPG / Action RPG
+JRPG / JRPG
+CRPG / CRPG
+Данжен-кроулер / Dungeon crawler
+Пошаговая RPG / Turn-based RPG
+RPG с отрядом / Party-based RPG
+MMO / MMO
+Симулятор жизни / Life simulation
+Симулятор фермы / Farming simulation
+Градостроительная игра / City builder
+Строительный симулятор / Construction sim
+Менеджмент / Management
+Тайкун / Tycoon
+Авиасимулятор / Flight simulator
+Автосимулятор / Driving simulator
+Железнодорожный симулятор / Train simulator
+Космический симулятор / Space simulation
+Симулятор техники / Vehicle simulation
+Симулятор свиданий / Dating sim
+Визуальная новелла / Visual novel
+Интерактивная проза / Interactive fiction
+Point-and-click / Point-and-click
+Графическое приключение / Graphic adventure
+Текстовое приключение / Text adventure
+Симулятор ходьбы / Walking simulator
+Нарративное приключение / Narrative adventure
+Детектив / Detective
+Квест-комната / Escape room
+Поиск предметов / Hidden object
+Три в ряд / Match-three
+Физическая головоломка / Physics puzzle
+Логическая головоломка / Logic puzzle
+Словесная игра / Word game
+Викторина / Trivia
+Карточная игра / Card game
+Коллекционная карточная игра / Collectible card game
+Колодостроение / Deck-building
+Настольная игра / Board game
+Рогалик-колодостроитель / Roguelike deckbuilder
+Ритм-игра / Rhythm
+Музыкальная игра / Music
+Танцевальная игра / Dance
+Party-игра / Party
+Сборник мини-игр / Minigame collection
+Казуальная игра / Casual
+Idle-игра / Idle
+Кликер / Clicker
+Инкрементальная игра / Incremental
+Бесконечный раннер / Endless runner
+Раннер / Runner
+Аркада / Arcade
+Пинбол / Pinball
+Арканоид / Brick breaker
+Лабиринт / Maze
+Фиксированный шутер / Fixed shooter
+Twin-stick шутер / Twin-stick shooter
+Космический шутер / Space shooter
+Сайд-скроллер / Side-scroller
+Брейлер / Brawler
+2D-платформер / 2D platformer
+3D-платформер / 3D platformer
+Платформер-головоломка / Puzzle platformer
+Хардкорный платформер / Precision platformer
+Коллектатон / Collectathon
+Экшен-приключение / Action-adventure
+Стелс-экшен / Stealth action
+Паркур / Parkour
+Скалолазание / Climbing
+Физическая игра / Physics-based
+Песочница-выживание / Survival sandbox
+Крафт / Crafting
+Строительство базы / Base building
+Симулятор колонии / Colony sim
+Симулятор бога / God game
+Социальная симуляция / Social simulation
+Симулятор питомца / Pet simulation
+Кулинарная игра / Cooking
+Симулятор ресторана / Restaurant sim
+Рыбалка / Fishing
+Охота / Hunting
+Гольф / Golf
+Футбол / Soccer
+Баскетбол / Basketball
+Американский футбол / American football
+Бейсбол / Baseball
+Хоккей / Hockey
+Теннис / Tennis
+Бокс / Boxing
+Рестлинг / Wrestling
+Скейтбординг / Skateboarding
+Экстремальные виды спорта / Extreme sports
+Гоночный симулятор / Racing sim
+Картинг / Kart racing
+Аркадные гонки / Arcade racing
+Внедорожные гонки / Off-road racing
+Гонки с боями / Combat racing
+Автомобильные бои / Vehicular combat
+Игра про мехов / Mech
+Космические бои / Space combat
+Морские сражения / Naval warfare
+Танковая игра / Tank game
+Военный симулятор / Military simulation
+Варгейм / Wargame
+Тактика / Tactics
+Тактика в реальном времени / Real-time tactics
+Тактика отряда / Squad tactics
+Стелс-тактика / Stealth tactics
+Артиллерия / Artillery
+Оборона по линиям / Lane defense
+Социальная дедукция / Social deduction
+Кооператив / Co-op
+Асимметричный мультиплеер / Asymmetric multiplayer
+Прятки / Hide and seek
+Боевая арена / Battle arena
+Аниме-файтинг / Anime fighter
+Командный файтинг / Tag fighting
+3D-файтинг / 3D fighting
+2D-файтинг / 2D fighting
+Образовательная игра / Educational
+Фитнес-игра / Fitness
+VR-игра / VR
+AR-игра / AR
+Мобильная игра / Mobile
+Гача / Gacha
+Игра-сервис / Live service
+Киберспорт / Esports
+MMO-песочница / Sandbox MMO
+Космические исследования / Space exploration
+Исследование / Exploration
+Выживание в открытом мире / Open-world survival
+Иммерсив-сим / Immersive sim
+Лутер / Looter
+Action roguelike / Action roguelike
+Roguelike-шутер / Roguelike shooter
+Тактический рогалик / Tactical roguelike
+Уютная игра / Cozy
+Бизнес-симулятор / Business sim
+Политический симулятор / Political sim
+Торговая игра / Trading
+Экономическая стратегия / Economic strategy
+Космическая 4X / Space 4X
+Строительство цивилизации / Civilization builder
+Шутер-RPG / Shooter RPG
+Мистика / Mystery
+Научная фантастика / Sci-fi
+Фэнтези / Fantasy
+Вестерн / Western
+Киберпанк / Cyberpunk
+Постапокалипсис / Post-apocalyptic
+Зомби / Zombie
+Пиратская игра / Pirate
+Супергеройская игра / Superhero
+Стелс-хоррор / Stealth horror
+Тайм-менеджмент / Time management
+Игра-программирование / Programming game
