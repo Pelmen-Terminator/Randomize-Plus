@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Консольный рандомайзер v1.2 — Zero/Pelmen_4000.
+"""Консольный рандомайзер v1.3 — Zero/Pelmen_4000.
 Запуск: python randomizer.py  (файлы countries.txt и ideologies.txt лежат рядом)"""
 import random, pathlib
 d = pathlib.Path(__file__).parent

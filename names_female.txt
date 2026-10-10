@@ -1,0 +1,19 @@
+Русские (Russian): Александра, Алёна, Алина, Алиса, Анастасия, Анна, Антонина, Валентина, Валерия, Варвара, Вера, Вероника, Виктория, Галина, Дарья, Диана, Евгения, Екатерина, Елена, Елизавета, Инна, Ирина, Кира, Ксения, Лариса, Лидия, Любовь, Людмила, Маргарита, Марина, Мария, Милана, Надежда, Наталья, Нина, Оксана, Олеся, Ольга, Полина, Раиса, Светлана, София, Татьяна, Ульяна, Юлия, Яна
+Английские (English): Mary, Patricia, Jennifer, Linda, Elizabeth, Barbara, Susan, Jessica, Sarah, Karen, Nancy, Lisa, Margaret, Betty, Sandra, Ashley, Dorothy, Kimberly, Emily, Donna, Michelle, Carol, Amanda, Melissa, Deborah, Stephanie, Rebecca, Laura, Sharon, Cynthia, Kathleen, Amy, Shirley, Angela, Helen, Brenda, Pamela, Nicole, Emma, Olivia, Charlotte, Amelia, Isabella, Grace, Chloe, Lily
+Немецкие (German): Ursula, Monika, Petra, Sabine, Renate, Helga, Brigitte, Gisela, Ingrid, Erika, Karin, Claudia, Andrea, Birgit, Heike, Katrin, Julia, Lena, Lea, Hannah, Sophie, Johanna, Greta, Clara, Marlene, Franziska, Annika, Nadine, Ute, Gabriele, Hildegard, Elke, Silke, Jana, Svenja, Liesel
+Итальянские (Italian): Giulia, Francesca, Sara, Chiara, Martina, Alessia, Elisa, Valentina, Federica, Silvia, Paola, Giorgia, Elena, Roberta, Simona, Lucia, Beatrice, Alice, Sofia, Aurora, Ginevra, Camilla, Serena, Teresa, Rosa, Gianna, Bianca, Carla, Antonella
+Японские (Japanese): Yui, Hina, Sakura, Aoi, Rin, Mio, Yuna, Akari, Haruka, Miyu, Nanami, Yuki, Emi, Keiko, Kaori, Naoko, Mai, Saki, Ayaka, Misaki, Kokona, Himari, Mei, Hana, Tsubasa, Reina, Sayuri, Noriko
+Китайские (Chinese): Mei, Li, Ying, Xiu, Fang, Na, Jing, Yan, Hui, Ling, Lan, Xia, Yun, Qing, Hua, Min, Xin, Yu, Zhen, Lin, Juan, Shan, Wen, Rong, Jia, Yue, Meng, Ning, Xue
+Корейские (Korean): Seo-yeon, Ji-woo, Ha-eun, Soo-ah, Min-seo, Ye-jin, Ji-min, Eun-woo, Da-eun, Yoo-na, Hye-jin, Su-bin, Mi-rae, Na-yeon, Jung-hwa, Hae-won, Bo-ra, Yeon-woo, Chae-won, Ji-yeon
+Чешские (Czech): Marie, Jana, Eva, Hana, Lenka, Kateřina, Lucie, Petra, Věra, Alena, Jaroslava, Zuzana, Barbora, Tereza, Veronika, Michaela, Markéta, Klára, Eliška, Adéla, Kristýna, Ivana, Dagmar, Radka, Božena
+Польские (Polish): Małgorzata, Katarzyna, Agnieszka, Krystyna, Ewa, Elżbieta, Zofia, Magdalena, Joanna, Janina, Danuta, Halina, Irena, Beata, Aleksandra, Natalia, Weronika, Zuzanna, Karolina, Paulina, Dominika
+Испанские (Spanish): María, Carmen, Josefa, Isabel, Ana, Cristina, Marta, Lucía, Paula, Pilar, Dolores, Raquel, Beatriz, Patricia, Sofía, Carla, Alba, Noelia, Inés, Mercedes, Esperanza, Gloria, Marisol, Rocío, Luz, Consuelo, Fátima
+Португальские (Portuguese): Beatriz, Inês, Matilde, Leonor, Mariana, Carolina, Catarina, Margarida, Joana, Rita, Filipa, Helena, Cláudia, Sónia, Susana, Madalena, Francisca, Luísa, Patrícia, Daniela, Lúcia
+Французские (French): Jeanne, Camille, Léa, Manon, Chloé, Inès, Louise, Juliette, Margaux, Amélie, Céline, Sophie, Isabelle, Nathalie, Sylvie, Brigitte, Élodie, Aurélie, Clémence, Océane, Mathilde, Pauline, Capucine, Colette, Delphine, Émilie, Solène
+Турецкие (Turkish): Ayşe, Fatma, Emine, Hatice, Zeynep, Elif, Merve, Büşra, Esra, Selin, Deniz, Derya, Sibel, Gül, Leyla, Aylin, Burcu, Ceren, Yasemin, Defne
+Арабские (Arabic): Fatima, Aisha, Layla, Zainab, Maryam, Noor, Salma, Amira, Yasmin, Huda, Samira, Rania, Leena, Dalia, Nadia
+Индийские (Indian): Aanya, Priya, Anjali, Kavya, Neha, Pooja, Sunita, Lakshmi, Divya, Meera, Riya, Sneha, Anita, Radha, Shreya
+Греческие (Greek): Eleni, Katerina, Sofia, Georgia, Dimitra, Ioanna, Christina, Anastasia, Vasiliki, Angeliki, Despina
+Скандинавские (Scandinavian): Ingrid, Astrid, Freya, Sigrid, Linnea, Elsa, Maja, Signe, Solveig, Britta, Saga, Ida, Greta
+Украинские (Ukrainian): Оксана, Соломія, Олена, Наталія, Ірина, Леся, Марічка, Богдана, Дарина, Мирослава, Христина, Ярина
+Еврейские (Hebrew): Sarah, Rachel, Leah, Miriam, Noa, Tamar, Shira, Yael, Talia, Maya, Dana
