@@ -1,4 +1,4 @@
-# Все слова рандомайзера v1.5 в одном файле. Разделы начинаются с «## ».
+# Все слова рандомайзера v1.6 в одном файле. Разделы начинаются с «## ».
 
 ## Страны (ООН, наблюдатели, непризнанные)
 Австралия
@@ -2489,6 +2489,175 @@ Celtic
 Polka
 Waltz
 Gothic rock
+Darkwave
+Garage
+Breakbeat
+Hardstyle
+
+## Комплименты женщине
+Ты очаровательна
+У тебя потрясающая улыбка
+Ты невероятно умная
+С тобой всегда легко и тепло
+Ты вдохновляешь окружающих
+У тебя отличное чувство юмора
+Ты очень сильная
+Твой стиль безупречен
+Ты красива и снаружи, и внутри
+Ты умеешь слушать, и это дорогого стоит
+С тобой хочется делиться мечтами
+Ты светишься, когда занимаешься любимым делом
+Ты настоящий друг
+Ты делаешь мир ярче
+
+## Комплименты мужчине
+Ты надёжный человек
+У тебя золотые руки
+Ты очень умный
+У тебя отличное чувство юмора
+Ты сильный и добрый одновременно
+Ты держишь слово
+С тобой спокойно в любой ситуации
+Ты умеешь добиваться целей
+Твой стиль на высоте
+Ты щедр на поддержку
+Ты вдохновляешь своим примером
+Ты настоящий друг
+У тебя отличные идеи
+Ты смелый, и это заметно
+
+## Знаки зодиака
+♈ Овен
+♉ Телец
+♊ Близнецы
+♋ Рак
+♌ Лев
+♍ Дева
+♎ Весы
+♏ Скорпион
+♐ Стрелец
+♑ Козерог
+♒ Водолей
+♓ Рыбы
+
+## Кухни мира
+🇮🇹 Итальянская
+🇫🇷 Французская
+🇪🇸 Испанская
+🇬🇷 Греческая
+🇹🇷 Турецкая
+🇬🇪 Грузинская
+🇷🇺 Русская
+🇺🇦 Украинская
+🇨🇳 Китайская
+🇯🇵 Японская
+🇰🇷 Корейская
+🇹🇭 Тайская
+🇻🇳 Вьетнамская
+🇮🇳 Индийская
+🇲🇽 Мексиканская
+🇵🇪 Перуанская
+🇧🇷 Бразильская
+🇦🇷 Аргентинская
+🇱🇧 Ливанская
+🇮🇱 Израильская
+🇪🇹 Эфиопская
+🇲🇦 Марокканская
+🇺🇸 Американская
+🇩🇪 Немецкая
+🇵🇹 Португальская
+🇮🇩 Индонезийская
+🇮🇷 Персидская
+🇺🇿 Узбекская
+🇵🇱 Польская
+🇸🇪 Шведская
+🇨🇺 Кубинская
+
+## Géneros musicales (Español)
+Pop
+Rock
+Hip-hop
+Rap
+Jazz
+Blues
+Clásica
+Ópera
+Electrónica
+House
+Techno
+Trance
+Drum and bass
+Dubstep
+Ambient
+Lo-fi
+Synthwave
+Vaporwave
+Disco
+Funk
+Soul
+R&B
+Reggae
+Ska
+Dancehall
+Reggaeton
+Salsa
+Bossa nova
+Tango
+Flamenco
+Country
+Folk
+Bluegrass
+Gospel
+Metal
+Heavy metal
+Thrash metal
+Death metal
+Black metal
+Doom metal
+Power metal
+Metalcore
+Punk
+Pop punk
+Post-punk
+Hardcore
+Emo
+Grunge
+Indie
+Alternativa
+Shoegaze
+Britpop
+Rock progresivo
+Rock psicodélico
+Hard rock
+Glam rock
+Soft rock
+Industrial
+Nueva ola
+Synth-pop
+K-pop
+J-pop
+Eurodance
+Trap
+Drill
+Phonk
+Grime
+Afrobeats
+Pop latino
+Bollywood
+Chanson francesa
+Swing
+Bebop
+Ragtime
+Barroco
+Bandas sonoras
+Chiptune
+Experimental
+Acústica
+Cantautor
+Música celta
+Polka
+Vals
+Rock gótico
 Darkwave
 Garage
 Breakbeat
