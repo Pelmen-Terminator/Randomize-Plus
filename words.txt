@@ -1,4 +1,4 @@
-# Все слова рандомайзера v1.4 в одном файле. Разделы начинаются с «## ».
+# Все слова рандомайзера v1.5 в одном файле. Разделы начинаются с «## ».
 
 ## Страны (ООН, наблюдатели, непризнанные)
 Австралия
@@ -2313,3 +2313,183 @@ fruit: Апельсин / Orange, Лимон / Lemon, Лайм / Lime, Грей�
 veg: Морковь / Carrot, Свёкла / Beet, Редис / Radish, Картофель / Potato, Репа / Turnip, Пастернак / Parsnip, Салат / Lettuce, Шпинат / Spinach, Руккола / Arugula, Щавель / Sorrel, Сельдерей / Celery, Помидор / Tomato, Огурец / Cucumber, Болгарский перец / Bell pepper, Баклажан / Eggplant, Кабачок / Zucchini, Тыква / Pumpkin, Кукуруза / Corn, Капуста / Cabbage, Брокколи / Broccoli, Цветная капуста / Cauliflower, Брюссельская капуста / Brussels sprouts, Лук / Onion, Чеснок / Garlic, Лук-порей / Leek, Зелёный лук / Green onion, Горох / Peas, Фасоль / Beans, Чечевица / Lentils, Нут / Chickpeas
 nut: Миндаль / Almond, Грецкий орех / Walnut, Фундук / Hazelnut, Кешью / Cashew, Фисташки / Pistachios, Пекан / Pecan, Макадамия / Macadamia, Бразильский орех / Brazil nut, Кедровый орех / Pine nut, Каштан / Chestnut, Арахис / Peanut, Подсолнечные семечки / Sunflower seeds, Тыквенные семечки / Pumpkin seeds, Кунжут / Sesame, Семена чиа / Chia seeds, Семена льна / Flax seeds, Мак / Poppy seeds, Семена конопли / Hemp seeds
 berry: Клубника / Strawberry, Малина / Raspberry, Чёрная смородина / Blackcurrant, Красная смородина / Redcurrant, Крыжовник / Gooseberry, Ежевика / Blackberry, Голубика / Blueberry, Арония / Chokeberry, Шелковица / Mulberry, Бузина / Elderberry, Ирга / Juneberry, Черника / Bilberry, Брусника / Lingonberry, Клюква / Cranberry, Земляника / Wild strawberry, Облепиха / Sea buckthorn, Рябина / Rowan, Калина / Viburnum, Морошка / Cloudberry, Жимолость / Honeysuckle, Терн / Sloe, Годжи / Goji, Асаи / Açaí, Физалис / Physalis, Барбарис / Barberry
+
+## Жанры музыки
+Поп
+Рок
+Хип-хоп
+Рэп
+Джаз
+Блюз
+Классика
+Опера
+Электронная
+Хаус
+Техно
+Транс
+Драм-н-бейс
+Дабстеп
+Эмбиент
+Лоу-фай
+Синтвейв
+Вейпорвейв
+Диско
+Фанк
+Соул
+Ар-н-би
+Регги
+Ска
+Дэнсхолл
+Реггетон
+Сальса
+Босса-нова
+Танго
+Фламенко
+Кантри
+Фолк
+Блюграсс
+Госпел
+Метал
+Хеви-метал
+Трэш-метал
+Дэт-метал
+Блэк-метал
+Дум-метал
+Пауэр-метал
+Металкор
+Панк
+Поп-панк
+Постпанк
+Хардкор
+Эмо
+Гранж
+Инди
+Альтернатива
+Шугейз
+Брит-поп
+Прогрессивный рок
+Психоделический рок
+Хард-рок
+Глэм-рок
+Софт-рок
+Индастриал
+Нью-вейв
+Синти-поп
+К-поп
+Джей-поп
+Евроданс
+Трэп
+Дрилл
+Фонк
+Граймс
+Афробит
+Латинский поп
+Болливуд
+Шансон
+Свинг
+Бибоп
+Рэгтайм
+Барокко
+Саундтреки
+Чиптюн
+Экспериментальная
+Акустика
+Авторская песня
+Кельтская музыка
+Полька
+Вальс
+Готик-рок
+Дарквейв
+Гэридж
+Брейкбит
+Хардстайл
+
+## Music genres (English)
+Pop
+Rock
+Hip-hop
+Rap
+Jazz
+Blues
+Classical
+Opera
+Electronic
+House
+Techno
+Trance
+Drum and bass
+Dubstep
+Ambient
+Lo-fi
+Synthwave
+Vaporwave
+Disco
+Funk
+Soul
+R&B
+Reggae
+Ska
+Dancehall
+Reggaeton
+Salsa
+Bossa nova
+Tango
+Flamenco
+Country
+Folk
+Bluegrass
+Gospel
+Metal
+Heavy metal
+Thrash metal
+Death metal
+Black metal
+Doom metal
+Power metal
+Metalcore
+Punk
+Pop punk
+Post-punk
+Hardcore
+Emo
+Grunge
+Indie
+Alternative
+Shoegaze
+Britpop
+Progressive rock
+Psychedelic rock
+Hard rock
+Glam rock
+Soft rock
+Industrial
+New wave
+Synth-pop
+K-pop
+J-pop
+Eurodance
+Trap
+Drill
+Phonk
+Grime
+Afrobeats
+Latin pop
+Bollywood
+Chanson
+Swing
+Bebop
+Ragtime
+Baroque
+Film score
+Chiptune
+Experimental
+Acoustic
+Singer-songwriter
+Celtic
+Polka
+Waltz
+Gothic rock
+Darkwave
+Garage
+Breakbeat
+Hardstyle

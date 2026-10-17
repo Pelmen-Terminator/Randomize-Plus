@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Консольный рандомайзер v1.4 — Zero/Pelmen_4000. Нужен words.txt рядом.
+"""Консольный рандомайзер v1.5 — Zero/Pelmen_4000. Нужен words.txt рядом.
 python randomizer.py            — по одному случайному слову из каждого раздела
 python randomizer.py страны     — 5 случайных из раздела, название которого содержит слово"""
 import random, sys, pathlib
